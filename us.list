@@ -1,5 +1,5 @@
 # Name: jackweb
 # Author: jackyuan987
 
-DOMAIN-SUFFIX,replaypoker.com
-DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-KEYWORD,replaypoker
+DOMAIN-SUFFIX,openai.com
